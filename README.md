@@ -6,8 +6,9 @@
 <div align="left">
 <!-- Badges -->
 
-![Lines of code](https://img.shields.io/tokei/lines/github/kamione/clozapineuse_prediction)
-![](https://img.shields.io/github/license/kamione/clozapineuse_prediction)
+![Lines of code](https://img.shields.io/tokei/lines/github.com/kamione/clozapineuse_prediction)
+![License](https://img.shields.io/github/license/kamione/clozapineuse_prediction)
+![Twitter Follow](https://img.shields.io/twitter/follow/tywong_one)
 
 Last update: 19 Aug 2023
 
